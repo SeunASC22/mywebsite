@@ -1,0 +1,19 @@
+body {
+    background-color: #474747;
+    color: rgb(230, 208, 13);
+    
+    display:flex;
+    flex-direction: column;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    width: 20%;
+    display: right;
+    
+}
